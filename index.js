@@ -97,7 +97,7 @@ const enemy = new Fighter({
   },
   color: 'blue',
   offset: {
-    x: -50,
+    x: 620,
     y: 0
   },
   imageSrc: './img/kenji/Idle.png',
